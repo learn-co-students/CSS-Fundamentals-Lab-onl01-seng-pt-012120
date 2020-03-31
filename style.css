@@ -43,6 +43,8 @@ footer {
 #details > div {
   display: block;
   float: left;
+  background-color: red;
+  
 }
 
 
