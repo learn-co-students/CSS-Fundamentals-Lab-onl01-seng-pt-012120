@@ -3,3 +3,49 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  color: red;
+}
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#header {
+  text-align: center;
+}
+
+#navigation {
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#caption {
+  text-align: center;
+}
+
+#featured-property p{
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+footer {
+  text-align: center;
+  width: 100%;
+}
+
+#details > div {
+  display: block;
+  float: left;
+}
+
+
+
+
+
